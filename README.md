@@ -2,9 +2,7 @@
 
 Welcome to the Car Rental  project! This application allows users to rent cars easily and efficiently. It provides a user-friendly interface for both customers and administrators to manage car rentals.
 
-## This project is now OFFICIALLY accepted for
 
-- ![project-image1](socialwinterofcode_cover.jpg)
 
 ## Table of Contents
 
@@ -128,6 +126,3 @@ These will be used in the client `.env` file.
 3. Book a Car: Select a car, choose your rental dates, and confirm your booking.
 4. Admin Panel: If you are an admin, log in to manage cars and bookings.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
